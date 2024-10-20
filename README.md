@@ -1,2 +1,2 @@
-# American-pricing-model
-Detailed git project 
+# Computational Finance
+
